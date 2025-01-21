@@ -3,3 +3,4 @@ int simpleArraySum(vector<int> ar) {
   for(int i=0;i<ar.size();i++){
     sum+=ar[i];
   }
+return sum;
